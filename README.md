@@ -8,6 +8,7 @@ Fields and Masks
 - Money R$ 999.999,99 (2 decimals, decimal symbol "," and thounsand symbol ".")
 - Weight 9,999kg (kilograns, 3 decimals for grams)
 - Distance/Speed in Kilometers and meters
+- Postal Code 99999-999 we named here as CEP
 
 People Documents
 -
