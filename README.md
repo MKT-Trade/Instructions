@@ -1,5 +1,14 @@
 # Documents, Fields and Descriptions
 
+Fields and Masks
+-
+- Date DD/MM/YYYY
+- Time HH:MM:SS
+- Date and Time DD/MM/YYYY HH:MM:SS
+- Money R$ 999.999,99 (2 decimals, decimal symbol "," and thounsand symbol ".")
+- Weight 9,999kg (kilograns, 3 decimals for grams)
+- Distance/Speed in Kilometers and meters
+
 People Documents
 -
 - RG = General Registry number, mask 99.999.999-X
